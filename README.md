@@ -15,11 +15,11 @@ As a developer and a user of software, you should know about Licences and their 
 
 [MIT License](https://mit-license.org/)  
 
+With what license should I release the source code below?  
 ```C
 int main()
 {
   printf("Hello!");
   return 0;
 }
-
 ```
