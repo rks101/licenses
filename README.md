@@ -15,5 +15,5 @@ As a developer and a user of software, you should know about Licences and their 
 
 [MIT License](https://mit-license.org/)  
 
-|Student ID | Name | Program | Department | 
-|010824 | RKS | B. Tech | Computer Engineering |
+|Student ID|Name|Program|Department|  
+|010824|RKS|B. Tech|Computer Engineering|  
