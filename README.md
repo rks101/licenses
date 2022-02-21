@@ -19,7 +19,7 @@ With what license should I release the source code below?
 ```C
 int main()
 {
-  printf("Hello!");
+  printf("Namaste!");
   return 0;
 }
 ```
